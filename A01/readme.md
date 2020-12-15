@@ -2,6 +2,7 @@
 
 ## Data Analysis Programming
 * **Python Programming Basics**
-* Python Packages and Modules
+* Python Packages, Modules and etc
+* Numpy, Pandas and Excel
 * Data Processing and Analysis
 * Data Modeling and Web Cralwling
